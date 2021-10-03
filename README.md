@@ -12,7 +12,7 @@ https://www.codementor.io/projects/web/joke-telling-bot-web-app-cjd2eyrfak
 ### Joke API used:
 https://sv443.net/jokeapi/v2/
 
-_This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
+_This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1._
 
 ## Development server
 
