@@ -1,6 +1,18 @@
 # TellAJoke
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
+### Project Instructions:
+https://www.codementor.io/projects/web/joke-telling-bot-web-app-cjd2eyrfak
+
+## Features:
+1. Hear a random joke at the click of the "tell me a joke" button
+2. Hear a random joke at the press of the key "J"
+3. Hear a random joke with speech recognition
+4. Change the accent of the speech synthesis
+
+### Joke API used:
+https://sv443.net/jokeapi/v2/
+
+_This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
 
 ## Development server
 
